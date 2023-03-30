@@ -96,7 +96,7 @@ ul{
 /*top-banner*/
 
 .top-banner{
-    background-image: url('assets/asset\ 42.jpg');
+    background-image: url('asset42.jpg');
     background-color: #4fb3d4;
     align-items: center;
 }
@@ -155,7 +155,7 @@ header{
 /*features-section*/
 .features-section{
     padding:60px var(--padding-inline-section) 0;
-    background: url(./assets/asset\ 43.svg);
+    background: url(asset43.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
